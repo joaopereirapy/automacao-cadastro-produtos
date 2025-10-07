@@ -18,7 +18,7 @@ Projeto em Python que automatiza o cadastro de produtos em um sistema web, utili
 ## ▶️ Como Executar o Projeto
 
 1. Clone o repositório:
-git clone https://github.com/joaopereiray/automacao-cadastro-produtos.git
+git clone https://github.com/joaopereirapy/automacao-cadastro-produtos.git
 
 2. Instale as dependências:
 pip install pyautogui pandas
